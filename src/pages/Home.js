@@ -1,8 +1,10 @@
-import Products from "../components/Products";
-
+import HomePage from "../components/HomePage";
 const Home =()=>{
-    return (
-        <Products/>
+    return(
+        <div>
+            <HomePage/>
+        </div>
+   
     )
 }
 export default Home;

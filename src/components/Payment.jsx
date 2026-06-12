@@ -24,7 +24,7 @@ const Payment = ()=>{
                 <span>Evc Plus</span>
             </div>
             <form>
-                <input className="control" type="number" placeholder="2526......" />
+                <input className="control" type="Number" placeholder="2526......" />
                 <button className="submit">Proceed</button>
             </form>
         </div>
